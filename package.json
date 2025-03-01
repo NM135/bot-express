@@ -6,7 +6,7 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nkjm/bot-express.git"
+    "url": "https://github.com/NM135/bot-express.git"
   },
   "license": "MIT",
   "keywords": [
@@ -17,7 +17,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "Kazuki Nakajima <nkjm.kzk@gmail.com>",
+  "author": "DESERAY JOHNSON <DEVELOPER@ECONO-LODGE-NM.COM>",
   "dependencies": {
     "apiai": "^4.0.1",
     "bluebird": "^3.4.7",
