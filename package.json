@@ -6,7 +6,7 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/NM135/bot-express.git"
+    "url": "git+https://github.com/NM135/bot-express.git"
   },
   "license": "MIT",
   "keywords": [
@@ -21,10 +21,11 @@
   "dependencies": {
     "apiai": "^4.0.1",
     "bluebird": "^3.4.7",
-    "body-parser": "~1.13.2",
+    "body-parser": "^1.20.3",
+    "bot-express": "^0.9.29",
     "crypto": "0.0.3",
     "debug": "^2.6.1",
-    "express": "~4.13.1",
+    "express": "^4.21.2",
     "isemail": "^2.2.1",
     "memory-cache": "^0.1.6",
     "moji": "^0.5.1",
@@ -35,5 +36,12 @@
     "chai": "*",
     "chai-as-promised": "*",
     "mocha": "*"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "bugs": {
+    "url": "https://github.com/NM135/bot-express/issues"
+  },
+  "homepage": "https://github.com/NM135/bot-express#readme"
 }
